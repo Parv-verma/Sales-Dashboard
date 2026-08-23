@@ -1,0 +1,6 @@
+{
+  "name": "SIM Sales Dashboard",
+  "description": "Internal analytics dashboard for SIM card sales team with daily/monthly performance, revenue metrics, and staff leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
